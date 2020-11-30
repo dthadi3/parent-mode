@@ -1,4 +1,7 @@
 language: emacs-lisp
+arch:
+  - AMD64
+  - ppc64le
 env:
   - EMACS=emacs23
   - EMACS=emacs24
